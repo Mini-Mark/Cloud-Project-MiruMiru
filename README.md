@@ -6,4 +6,4 @@ Welcome to Cloud-Project-MiruMiru, a project related to cloud computing, for lea
 
 ## Overview
 
-Cloud-Project-MiruMiru is a project developed in the context of a cloud computing course. This repository likely contains resources, code, or documentation related to cloud technologies and practices.
+Cloud-Project-MiruMiru is a project developed in the context of a cloud computing course. Website about social media
